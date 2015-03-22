@@ -1,1 +1,1 @@
-gradlew clean setupCIWorkSpace build
+./gradlew clean setupCIWorkSpace build
